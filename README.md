@@ -13,7 +13,7 @@
 ## Install
 
 ```fish
-$ omf install https://github.com/divykj/omf-theme-dv
+$ omf install https://github.com/dvjn/omf-theme-dv
 ```
 
 ## Screenshot
